@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_student">Studenci często narzekają</string>
+    <string name="q_slon">Słoń należy do ssaków</string>
+    <string name="q_danie">Podstawą spaghetti jest makaron</string>
+    <string name="q_math">Wynikiem działania 2x2 jest 5</string>
+    <string name="q_nauka">Regularna nauka popłaca</string>
+
+    <string name="correct_answer">Dobra odpowiedź!</string>
+    <string name="incorrect_answer">Zła odpowiedź!</string>
+
+</resources>
