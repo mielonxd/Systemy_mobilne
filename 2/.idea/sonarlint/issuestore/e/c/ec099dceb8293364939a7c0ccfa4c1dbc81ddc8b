@@ -1,0 +1,24 @@
+
+`
+java:S1192 "KDefine a constant instead of duplicating this literal "MyActivity" 7 times.(þËãv
+C
+java:S1604,"(Make this anonymous inner class a lambda(Üà¨¯üÿÿÿÿ
+>
+java:S16042"(Make this anonymous inner class a lambda(éäó‚
+q	java:S116"WRename this field "CurrentIndex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¨‚Óýÿÿÿÿ
+p
+java:S1450"ZRemove the "falseButton" field and declare it as a local variable in the relevant methods.(Ôœ
+o
+java:S1450"YRemove the "hintButton" field and declare it as a local variable in the relevant methods.(Š¡˜Æ
+t
+java:S1450"YRemove the "nextButton" field and declare it as a local variable in the relevant methods.(º€ü‰ùÿÿÿÿ
+t
+java:S1450"YRemove the "trueButton" field and declare it as a local variable in the relevant methods.(Ãþ×Äüÿÿÿÿ
+J
+java:S16118"/Remove the parentheses around the "v" parameter(‰±ºúøÿÿÿÿ
+J
+java:S1611>"/Remove the parentheses around the "v" parameter(œþóÊøÿÿÿÿ
+T
+java:S1874B">Remove this use of "startActivityForResult"; it is deprecated.(îü‰”
+a
+java:S1874€"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ
